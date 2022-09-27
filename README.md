@@ -9,3 +9,5 @@ cowsay
 time
 
 main.py is the name of python file
+
+#click on main.py to run the programe
