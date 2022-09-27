@@ -11,10 +11,10 @@ system("cls");
 
   setcolor(10);
   gotoxy(22,11);
-  printf("Name : Ashutosh Rai");
+  printf("Name : AB SIjk");
   setcolor(12);
   gotoxy(22,13);
-  printf("Address : Railway station road Ghazipur");
+  printf("Address : US Washin.");
    setcolor(15);
   gotoxy(22,15);
   printf("Info : Gadhe ka lund se khelne ka bda souk rakhte hai.. ");
